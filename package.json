@@ -16,7 +16,7 @@
     "messaging",
     "fcm"
   ],
-  "author": "icaroinflames",
+  "author": "icaroinflames <rczurita@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "fastify-plugin": "^4.5.1"
