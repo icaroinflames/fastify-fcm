@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "@icaroinflames/fastify-fcm"
+    "url": "git+https://github.com/icaroinflames/fastify-fcm"
   },
   "keywords": [
     "fastify",
